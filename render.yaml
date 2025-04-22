@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: academia-forca-local
+    env: python
+    buildCommand: ""
+    startCommand: streamlit run app.py
+    plan: free
