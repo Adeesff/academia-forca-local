@@ -1,0 +1,8 @@
+idade,sexo,frequencia_mensal,atraso_pagamento,dias_sem_frequencia,uso_personal,cancelou
+28,F,12,0,2,Sim,0
+35,F,8,1,12,Não,1
+41,M,10,0,4,Sim,0
+30,F,5,1,15,Não,1
+45,F,3,2,30,Não,1
+22,M,14,0,0,Sim,0
+39,F,7,1,10,Não,1
